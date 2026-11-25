@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @utkarsh95m
-- 👀 I’m interested in machine learning and statistics
-- 🌱 I’m currently learning python and javascript
+- 👀 I’m interested in machine learning and statistics. And building anything interesting. 
+- 🌱 I’m currently building apps and AI fine tuned models for everyday tasks.
 - 💞️ I’m looking to collaborate on making scripts to make everyday tasks easier. Automation you say?
 - 📫 How to reach me: utkarsh95m@gmail.com
 
